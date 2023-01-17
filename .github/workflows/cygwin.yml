@@ -6,6 +6,7 @@ on:
       - "master"
       - "flake"
       - "ga"
+      - dev/trungnt2910/**
   pull_request:
     branches:
       - "master"
